@@ -56,5 +56,3 @@ landing-keepsake/
 
 **Проєкт:** Keepsake — Responsive Landing Page
 =======
-# landing-keepsake
->>>>>>> 9a48f9b8c5dd5e619b1f4c8487b0702b7f423506
